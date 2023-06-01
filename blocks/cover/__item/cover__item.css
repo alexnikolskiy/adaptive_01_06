@@ -1,0 +1,13 @@
+.cover__item {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+}
+
+@media (max-width: 767px) {
+  .cover__item {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}
+
